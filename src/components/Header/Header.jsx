@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import ThemeToggle from "../../theme/ThemeToggle";
-import logo from "../../assets/logo.png";
+import logo from "/logo.png";
 import { MoveRight, Menu, X } from "lucide-react";
 import NavItems from "./NavItems";
 import MenuItem from "./MenuItem";
