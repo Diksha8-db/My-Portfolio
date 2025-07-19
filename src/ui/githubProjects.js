@@ -29,7 +29,7 @@ const githubProjects = [
       name: "Portfolio Website",
       description:
         "A dynamic and visually engaging portfolio built with React.js, Tailwind CSS, and Framer Motion. It brings my skills and projects to life through smooth animations, responsive design, and a clean, modern interface. Crafted to reflect both creativity and code, this site offers a seamless browsing experience while showcasing who I am as a developer.",
-      deploymentLink: "https://taskora-to-do.vercel.app",
+      deploymentLink: "https://diksha-bharti-portfolio.vercel.app/",
       techStack: ["React.js", "Tailwind CSS","Framer Motion" ,"Email js", "Lucide icons"],
       githubUrl: "https://github.com/Diksha8-db/My-Portfolio",
       image: portfolioImg,

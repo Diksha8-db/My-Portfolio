@@ -78,7 +78,7 @@ function HeroSection() {
             </div>
             <div className="flex flex-col md:flex-row gap-4 py-2 md:gap-6">
               <a
-              href="https://drive.google.com/file/d/1oFJVr14vfuR7LbuIJapTsP49qxsEpDY0/view?usp=sharing"
+              href="https://drive.google.com/file/d/1buFiS85o0cQ7uUwV-Xn4EsINYicypWTy/view?usp=sharing"
                 className="rounded-lg bg-purple-500 px-2 py-2 text-white flex gap-2
               hover:opacity-80"
               >
