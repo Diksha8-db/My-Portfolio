@@ -1,4 +1,7 @@
-import {vibemptionImg, taskoraImg, finlyticsImg, portfolioImg} from '../assets/projects/project.js'
+export const vibemptionImg = "/assets/projects/vibemption.jpeg";
+export const finlyticsImg = "/assets/projects/finlytics.jpeg";
+export const taskoraImg = "/assets/projects/taskora.jpeg";
+export const portfolioImg = "/assets/projects/portfolio.jpeg";
 
 const githubProjects = [
     {

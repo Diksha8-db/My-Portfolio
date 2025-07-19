@@ -1,7 +1,6 @@
 import React from "react";
 import { Agreement02Icon, Files01Icon } from "@hugeicons/core-free-icons";
 import { HugeiconsIcon } from "@hugeicons/react";
-import pp from '../../assets/pp.png'
 
 function About() {
   return (
@@ -14,7 +13,7 @@ function About() {
           {/* Profile Photo */}
           <div className='flex flex-row justify-center items-center'>
             <img
-            src={pp}
+            src='/assets/pp.png'
             className="w-[50%] md:w-[70%]"
             />
           </div>

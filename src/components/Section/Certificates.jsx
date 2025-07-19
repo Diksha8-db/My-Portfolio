@@ -1,14 +1,16 @@
 import React from "react";
 import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
-import Byteverse from '../../assets/certificate/Byteverse.jpeg';
-import CodeClash from '../../assets/certificate/dsaRoundCodeClash.jpeg'
-import CodeRoundCodeClash from '../../assets/certificate/CodeRoundCodeClash.jpeg'
 
 function Certificates() {
   const [emblaRef] = useEmblaCarousel({ loop: true }, [Autoplay()]);
 
-  const slides = [Byteverse, CodeClash, CodeRoundCodeClash];
+  const slides = [
+    "/assets/certificate/Byteverse.jpeg",
+    "/assets/certificate/dsaRoundCodeClash.jpeg",
+    "/assets/certificate/CodeRoundCodeClash.jpeg"
+  ];
+  
 
   return (
     <section 
