@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "postinstall": "flowbite-react patch"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@chakra-ui/react": "^3.21.0",
@@ -29,7 +28,6 @@
     "devicon": "^2.16.0",
     "embla-carousel-autoplay": "^8.6.0",
     "embla-carousel-react": "^8.6.0",
-    "flowbite-react": "^0.11.8",
     "framer-motion": "^12.19.2",
     "lucide-react": "^0.515.0",
     "motion": "^12.19.2",
