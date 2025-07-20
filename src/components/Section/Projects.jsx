@@ -73,6 +73,22 @@ function Projects() {
                 <p className="dark:text-gray-300 text-purple-950">
                   {project.description}
                 </p>
+
+                {/* project url ang github for mobile view */}
+                <div className='flex justify-end md:hidden px-5'>
+                <div className='flex gap-5'>
+                <a 
+                  target='_blank'
+                  href={project.deploymentLink}>
+                    <ExternalLink color="white" strokeWidth={2} size={28} />
+                  </a>
+                  <a 
+                  target="_blank"
+                  href={project.githubUrl}>
+                    <Github color="white" size={28} />
+                  </a>
+                </div>
+                </div>
               </div>
             </div>
           ))}
