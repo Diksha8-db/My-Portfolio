@@ -6,9 +6,9 @@ function Certificates() {
   const [emblaRef] = useEmblaCarousel({ loop: true }, [Autoplay()]);
 
   const slides = [
-    "/assets/certificate/Byteverse.jpeg",
+    "/assets/certificate/byteverse.jpeg",
     "/assets/certificate/dsaRoundCodeClash.jpeg",
-    "/assets/certificate/CodeRoundCodeClash.jpeg"
+    "/assets/certificate/codeRoundCodeClash.jpeg"
   ];
   
 

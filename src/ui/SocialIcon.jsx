@@ -19,7 +19,7 @@ const socialIcons = [
     {
       icon: InstagramIcon,
       iconColor: "#F6506F",
-      href: "https://github.com/Diksha8-db",
+      href: "https://www.instagram.com/diksha_bharti06?igsh=cTgwYmcxemViMGl6",
     },
     {
       icon: Linkedin02Icon,
@@ -29,7 +29,7 @@ const socialIcons = [
     {
       icon: DiscordIcon,
       iconColor: "white",
-      href: "",
+      href: "https://discord.gg/JJMcWhnVM6",
     },
     {
       icon: LeetcodeIcon,
