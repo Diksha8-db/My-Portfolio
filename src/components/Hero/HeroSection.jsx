@@ -43,6 +43,7 @@ function HeroSection() {
                       strings: [
                         "MERN Stack Developer",
                         "DSA enthusiast",
+                        "Open Source Contributor",
                         "Problem Solver",
                         "Creative Thinker",
                         "Quick Learner",
@@ -83,7 +84,7 @@ function HeroSection() {
               hover:opacity-80"
               >
                 <HugeiconsIcon icon={Files01Icon} />
-                Resume
+                View Resume
               </a>
 
               <a 
@@ -91,7 +92,7 @@ function HeroSection() {
               className="rounded-lg bg-purple-500 px-2 py-2 text-white flex gap-2 hover:opacity-80"
               >
                 <HugeiconsIcon icon={SourceCodeIcon} />
-                Projects
+               Explore Projects
               </a>
             </div>
             <SocialIcon/>
