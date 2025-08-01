@@ -74,7 +74,7 @@ function Skills() {
                 color: "white",
                 borderRadius: 5,
               }}
-              className='lg:w-[90%] w-full mx-auto lg:px-20 lg:py-16 dark:py-8 pb-8 dark:bg-gray-800 dark:shadow-sm shadow-gray-700'
+              className='lg:w-[90%] dark:px-5 w-full mx-auto lg:px-20 lg:py-16 dark:py-8 pb-8 dark:bg-gray-800 dark:shadow-sm shadow-gray-700'
             >
               {skill.icons.map((icon, i) => {
                 const IconTag = icon.iconName;
