@@ -83,7 +83,7 @@ function HeroSection() {
               hover:opacity-80"
               >
                 <HugeiconsIcon icon={Files01Icon} />
-                View Resume
+                Resume
               </a>
 
               <a 
@@ -91,7 +91,7 @@ function HeroSection() {
               className="rounded-lg bg-purple-500 px-2 py-2 text-white flex gap-2 hover:opacity-80"
               >
                 <HugeiconsIcon icon={SourceCodeIcon} />
-                View Projects
+                Projects
               </a>
             </div>
             <SocialIcon/>
