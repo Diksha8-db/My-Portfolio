@@ -60,7 +60,7 @@ function About() {
               href='#contact'
               className='flex gap-3 text-purple-500 border-3 border-purple-600 bg-transparent text-center px-2 py-1.5 rounded-lg hover:bg-purple-500 hover:text-white hover:border-none hover:py-2 duration-500 transition-all ease-in-out'>
                 <HugeiconsIcon icon={Files01Icon} strokeWidth={2}/>
-               View Projects
+               Projects
               </a>
               </div>
               
