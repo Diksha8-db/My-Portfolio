@@ -8,7 +8,9 @@ function Certificates() {
   const slides = [
     "/assets/certificate/byteverse.jpeg",
     "/assets/certificate/dsaRoundCodeClash.jpeg",
-    "/assets/certificate/codeRoundCodeClash.jpeg"
+    "/assets/certificate/codeRoundCodeClash.jpeg",
+    "/assets/certificate/algouniversity.png",
+    "assets/certificate/nptelpython.png"
   ];
   
 

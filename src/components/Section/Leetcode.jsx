@@ -32,7 +32,7 @@ function Leetcode() {
               <p>
                 Over the past year, I've solidified my Data Structures &
                 Algorithms skills and my problem-solving capablities by
-                completing over <b className="text-2xl font-semibold ">200+</b>{" "}
+                completing over <b className="text-2xl font-semibold ">500+</b>{" "}
                 Leetcode problems touching nearly all the concepts of
                 programming.
               </p>

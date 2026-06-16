@@ -12,7 +12,7 @@ function Education() {
       year: "2024 - 2028",
       institute: "National Institute of Technology, Patna",
       degree: "B.Tech in Computer Science and Engineering",
-      grade: "10/10",
+      grade: "9.9/10",
     },
     {
       year: "2022 - 2024",
